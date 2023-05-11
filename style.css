@@ -1,0 +1,25 @@
+.home img{
+    float: center;
+    margin-right: 3rem;
+    width: 40%;
+
+}
+
+nav li{
+    display: inline;
+    margin-right: 0.5rem;
+}
+
+.about img{
+float: none;
+margin: auto;
+width: 60%;
+
+}
+
+footer{
+    text-align: center;
+}
+
+
+
