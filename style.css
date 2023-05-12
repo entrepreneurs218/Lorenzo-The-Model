@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .home img{
     float: center;
     margin-right: 3rem;
@@ -23,3 +24,30 @@ footer{
 
 
 
+=======
+.home img{
+    float: center;
+    margin-right: 3rem;
+    width: 40%;
+
+}
+
+nav li{
+    display: inline;
+    margin-right: 0.5rem;
+}
+
+.about img{
+float: none;
+margin: auto;
+width: 60%;
+
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+>>>>>>> e3a9c499242b8f334db9916092b29d0590e372ab
